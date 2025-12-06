@@ -52,7 +52,7 @@ streamlit run app.py
 
 Example:
 
-![App Screenshot](images/screenshot1.png)
+![App Screenshot](https://github.com/PanchalArti/Movie_reccomadation_system/blob/main/Snapshot.png)
 
 🧮 How It Works
 
@@ -94,3 +94,4 @@ similarity.pkl → Cosine similarity matrix
 
 Pull requests are welcome!
 If you'd like to contribute, please fork the repo and submit a PR.
+
